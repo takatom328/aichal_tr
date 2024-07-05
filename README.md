@@ -1,2 +1,2 @@
-# aichallenge_mytask
+# aichal_tr
 練習用
