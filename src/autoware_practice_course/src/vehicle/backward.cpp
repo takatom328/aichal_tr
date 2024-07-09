@@ -45,8 +45,8 @@ void SampleNode::on_timer()
   AckermannControlCommand command;
   command.stamp = stamp;
   if (gear_.report == GearReport::REVERSE) {
-    command.longitudinal.speed = 0.0;
-    command.longitudinal.acceleration = -2.5;
+    command.longitudinal.speed = -2.0; //240704 tomohiro
+    command.longitudinal.acceleration = 0.5; //240704 tomohiro
   } else {
     command.longitudinal.speed = 0.0;
     command.longitudinal.acceleration = -2.5;

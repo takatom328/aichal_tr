@@ -33,9 +33,9 @@ void SampleNode::on_timer()
 
   AckermannControlCommand command;
   command.stamp = stamp;
-  command.longitudinal.speed = 0.0;
-  command.longitudinal.acceleration = -2.5;
-  command.lateral.steering_tire_angle = 0.0;
+  command.longitudinal.speed = 3.0;  //0 to 3.0 2024/07/02 tomohiro
+  command.longitudinal.acceleration = 1.0; //-2.4 to 1.0 2024/7/02 tomohiro
+  command.lateral.steering_tire_angle = 2.0; //0.0 to 2.0 2024/7/03 tomohiro
   pub_command_->publish(command);
 }
 
