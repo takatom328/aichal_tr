@@ -1,0 +1,40 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/tt18/ros2/autoware-practice/install/autoware_sensing_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_practice_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_planning_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_perception_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_map_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_localization_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_control_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_common_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_vehicle_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_planning_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_perception_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_mapping_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_geometry_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/tt18/ros2/autoware-practice/install/autoware_sensing_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_practice_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_planning_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_perception_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_map_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_localization_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_control_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_common_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_vehicle_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_system_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_planning_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_perception_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_mapping_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_geometry_msgs/local/lib/python3.10/dist-packages",
+        "/home/tt18/ros2/autoware-practice/install/autoware_auto_control_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
